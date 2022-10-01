@@ -81,7 +81,8 @@ button {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     transition: all 0.1s ease;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.1);
-
+    /*The Submit button. I changed the color, the border 
+    color and added text shadow just for fun*/
 }
 
 button:hover {
@@ -141,11 +142,12 @@ form {
 }
 
 .image {
-    background-image: url("https://svgshare.com/i/_gZ.svg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    /*border: 2px solid black;*/
+  background-image: url("https://svgshare.com/i/_gZ.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 65%;
+  /*Big image on the left side*/
 }
 
 .text {
