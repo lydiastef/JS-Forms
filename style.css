@@ -44,7 +44,7 @@ form div {
 }
 
 input:focus {
-    border: 2px solid #f2796e;
+    border: 2px solid #c9ada7;
 }
 
 /*Icons*/
@@ -72,8 +72,8 @@ button {
     margin-top: 15px;
     width: 100%;
     height: 45px;
-    background-color: #f2796e;
-    border: 2px solid #f2796e;
+    background-color: #c9ada7;
+    border: 2px solid #c9ada7;
     border-radius: 8px;
     color: #fff;
     font-size: 20px;
@@ -114,7 +114,7 @@ button:hover {
 }
 
 span {
-    color: #f2796e;
+    color: #a17970;
     cursor: pointer;
 }
 
@@ -127,7 +127,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: #f2796e;
+    background-color: #c9ada7;
     width: 55%;
     min-height: 100vh;
     padding: 10px 20px;
